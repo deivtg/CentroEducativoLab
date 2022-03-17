@@ -7,6 +7,10 @@ namespace CentroEducativoLab.Edu.Kinal.Lab.Entities
         public string Nombres { get; set; }
         public string Email { get; set; }
         public abstract void TomarAsistencia();
+        public Persona()
+        {
+
+        }
         public Persona(string uuid, string apellidos, string nombres, string email){
             this.UUID = uuid;
             this.Apellidos = apellidos;

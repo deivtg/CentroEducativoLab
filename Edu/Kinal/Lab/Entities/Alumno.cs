@@ -6,7 +6,10 @@ namespace CentroEducativoLab.Edu.Kinal.Lab.Entities
     {
         public string Carne { get; set; }
         public int NumeroCreditos { get; set; }
+        public Alumno() : base()
+        {
 
+        }
         public Alumno(string uuid, string apellidos, string nombres, string email, string carne, int numeroCreditos)
             : base(uuid, apellidos, nombres, email)
         {

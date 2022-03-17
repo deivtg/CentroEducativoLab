@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dtocay\\OneDrive - Unisuper\\Documentos\\2022\\kinal\\net\\backend\\lab\\CentroEducativoLab\\CentroEducativoLab.csproj": {}
+    "C:\\Users\\dtocay\\OneDrive - Unisuper\\Documentos\\2022\\kinal\\net\\backend\\lab\\CentroEducativoLabRefactor\\CentroEducativoLab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dtocay\\OneDrive - Unisuper\\Documentos\\2022\\kinal\\net\\backend\\lab\\CentroEducativoLab\\CentroEducativoLab.csproj": {
+    "C:\\Users\\dtocay\\OneDrive - Unisuper\\Documentos\\2022\\kinal\\net\\backend\\lab\\CentroEducativoLabRefactor\\CentroEducativoLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dtocay\\OneDrive - Unisuper\\Documentos\\2022\\kinal\\net\\backend\\lab\\CentroEducativoLab\\CentroEducativoLab.csproj",
+        "projectUniqueName": "C:\\Users\\dtocay\\OneDrive - Unisuper\\Documentos\\2022\\kinal\\net\\backend\\lab\\CentroEducativoLabRefactor\\CentroEducativoLab.csproj",
         "projectName": "CentroEducativoLab",
-        "projectPath": "C:\\Users\\dtocay\\OneDrive - Unisuper\\Documentos\\2022\\kinal\\net\\backend\\lab\\CentroEducativoLab\\CentroEducativoLab.csproj",
+        "projectPath": "C:\\Users\\dtocay\\OneDrive - Unisuper\\Documentos\\2022\\kinal\\net\\backend\\lab\\CentroEducativoLabRefactor\\CentroEducativoLab.csproj",
         "packagesPath": "C:\\Users\\dtocay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dtocay\\OneDrive - Unisuper\\Documentos\\2022\\kinal\\net\\backend\\lab\\CentroEducativoLab\\obj\\",
+        "outputPath": "C:\\Users\\dtocay\\OneDrive - Unisuper\\Documentos\\2022\\kinal\\net\\backend\\lab\\CentroEducativoLabRefactor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dtocay\\AppData\\Roaming\\NuGet\\NuGet.Config"
